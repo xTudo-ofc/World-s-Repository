@@ -16,7 +16,7 @@
     },
     {
       "name": "YouTube Plus",
-      "bundleIdentifier": "com.miidi.uYouPlus",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MIRO92",
       "version": "1.0",
       "versionDate": "2026-04-12",
