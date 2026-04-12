@@ -1,0 +1,40 @@
+{
+  "name": "World’s Repository",
+  "identifier": "com.world.repository",
+  "subtitle": "The world best reppository",
+  "apps": [
+    {
+      "name": "SpaceFlight Simulator -IOS GOODS (Full Bundle)",
+      "bundleIdentifier": "com.stefmorojna.spaceflightsimulator",
+      "developerName": "Stef Morojna",
+      "version": "1.5.10",
+      "versionDate": "2026-04-12",
+      "downloadURL": "COLOQUE_AQUI_O_LINK_DO_IPA",
+      "localizedDescription": "Simulador de foguetes com todos os pacotes desbloqueados. Testado e funcionando no iOS 26.5.",
+      "iconURL": "COLOQUE_AQUI_O_LINK_DA_IMAGEM",
+      "size": 150000000
+    },
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.miidi.uYouPlus",
+      "developerName": "MIRO92",
+      "version": "19.0.1",
+      "versionDate": "2026-04-12",
+      "downloadURL": "COLOQUE_AQUI_O_LINK_DO_IPA",
+      "localizedDescription": "YouTube com bloqueador de anúncios, reprodução em segundo plano e download de vídeos.",
+      "iconURL": "COLOQUE_AQUI_O_LINK_DA_IMAGEM",
+      "size": 120000000
+    },
+    {
+      "name": "KSign",
+      "bundleIdentifier": "com.ksign.app",
+      "developerName": "KSign Team",
+      "version": "1.0",
+      "versionDate": "2026-04-12",
+      "downloadURL": "https://github.com/xTudo-ofc/World-s-Repository/raw/refs/heads/main/Ksign.ipa",
+      "localizedDescription": "Ferramenta útil para assinatura de pacotes e gerenciamento de certificados.",
+      "iconURL": "COLOQUE_AQUI_O_LINK_DA_IMAGEM",
+      "size": 50000000
+    }
+  ]
+}
