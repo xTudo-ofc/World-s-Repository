@@ -27,7 +27,7 @@
     },
     {
       "name": "KSign",
-      "bundleIdentifier": "com.ksign.app",
+      "bundleIdentifier": "nya.asami.ksign",
       "developerName": "KSign Team",
       "version": "1.0",
       "versionDate": "2026-04-12",
