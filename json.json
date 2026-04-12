@@ -1,16 +1,16 @@
 {
-  "name": "World’s Repository",
+  "name": "World Repository",
   "identifier": "com.world.repository",
-  "subtitle": "The world best repository",
+  "subtitle": "Best IPA Collection",
   "apps": [
     {
-      "name": "SpaceFlight Simulator (Full)",
+      "name": "SpaceFlight Simulator",
       "bundleIdentifier": "com.stefmorojna.spaceflightsimulator",
       "developerName": "Stef Morojna",
       "version": "1.5.10",
       "versionDate": "2026-04-12",
-      "downloadURL": "https://drive.usercontent.google.com/u/0/uc?id=100IXZV4BGkKd7ZTh1JH9dKdE5UxKZMso&export=download",
-      "localizedDescription": "Rocket simulator with all bundles unlocked. Tested and working.",
+      "downloadURL": "https://github.com/xTudo-ofc/World-s-Repository/releases/download/v1.0/Ksign.ipa",
+      "localizedDescription": "Rocket simulator full bundle.",
       "iconURL": "https://github.com/xTudo-ofc/World-s-Repository/blob/main/ksignlogo.png?raw=true",
       "size": 150000000
     },
@@ -20,8 +20,8 @@
       "developerName": "MIRO92",
       "version": "1.0",
       "versionDate": "2026-04-12",
-      "downloadURL": "https://drive.usercontent.google.com/u/0/uc?id=100IXZV4BGkKd7ZTh1JH9dKdE5UxKZMso&export=download",
-      "localizedDescription": "YouTube with Ad-blocker, background play, and video downloads.",
+      "downloadURL": "https://github.com/xTudo-ofc/World-s-Repository/releases/download/v1.0/Ksign.ipa",
+      "localizedDescription": "YouTube with Ad-blocker and Background play.",
       "iconURL": "https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png",
       "size": 120000000
     },
@@ -32,7 +32,7 @@
       "version": "1.0",
       "versionDate": "2026-04-12",
       "downloadURL": "https://github.com/xTudo-ofc/World-s-Repository/raw/refs/heads/main/Ksign.ipa",
-      "localizedDescription": "Useful tool for package signing and certificate management.",
+      "localizedDescription": "Signing tool for iOS.",
       "iconURL": "https://github.com/xTudo-ofc/World-s-Repository/blob/main/ksignlogo.png?raw=true",
       "size": 50000000
     }
