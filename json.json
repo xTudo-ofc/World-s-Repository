@@ -29,7 +29,7 @@
       "name": "KSign",
       "bundleIdentifier": "nya.asami.ksign",
       "developerName": "KSign Team",
-      "version": "1.0",
+      "version": "1.5.1",
       "versionDate": "2026-04-12",
       "downloadURL": "https://github.com/xTudo-ofc/World-s-Repository/raw/refs/heads/main/Ksign.ipa",
       "localizedDescription": "Useful tool for package signing.",
