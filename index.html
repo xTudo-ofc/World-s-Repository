@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World's Repository</title>
+    <style>
+        :root {
+            --primary-color: #007AFF;
+            --secondary-color: #00ff88;
+            --bg-color: #050505;
+            --card-bg: rgba(255, 255, 255, 0.03);
+            --text-main: #ffffff;
+            --text-dim: #a1a1a6;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            overflow-x: hidden;
+        }
+
+        /* Hero Section */
+        .hero {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            margin: 0;
+            background: linear-gradient(135deg, #fff 0%, #444 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -1px;
+        }
+
+        .description {
+            font-size: 1.2rem;
+            color: var(--text-dim);
+            max-width: 500px;
+            margin-top: 20px;
+            line-height: 1.5;
+        }
+
+        .scroll-indicator {
+            margin-top: 50px;
+            color: var(--primary-color);
+            font-size: 0.9rem;
+            animation: bounce 2s infinite;
+        }
+
+        /* Content Section */
+        .content {
+            width: 100%;
+            max-width: 800px;
+            padding-bottom: 100px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .section-card {
+            width: 90%;
+            background: var(--card-bg);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 24px;
+            padding: 40px;
+            margin: 20px 0;
+            backdrop-filter: blur(20px);
+            text-align: center;
+        }
+
+        .source-label {
+            color: var(--text-dim);
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .source-url {
+            color: var(--primary-color);
+            font-family: 'SF Mono', monospace;
+            font-size: 1rem;
+            background: rgba(0, 122, 255, 0.1);
+            padding: 15px;
+            border-radius: 12px;
+            border: 1px solid rgba(0, 122, 255, 0.3);
+            word-break: break-all;
+            display: inline-block;
+        }
+
+        .app-title {
+            color: var(--secondary-color);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+
+        .app-logo {
+            width: 140px;
+            height: 140px;
+            border-radius: 30px;
+            box-shadow: 0 15px 30px rgba(0,0,0,0.5);
+            margin: 20px 0;
+        }
+
+        .compatibility-list {
+            margin-top: 60px;
+            color: var(--text-dim);
+            font-size: 1rem;
+        }
+
+        .compatibility-list b {
+            color: #fff;
+            padding: 0 5px;
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+            40% {transform: translateY(-10px);}
+            60% {transform: translateY(-5px);}
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero">
+        <h1>World-s-Repository</h1>
+        <p class="description">
+            Access a massive collection of .ipa files for advanced mobile management. Available worldwide.
+        </p>
+        <div class="scroll-indicator">Scroll down to explore ↓</div>
+    </section>
+
+    <div class="content">
+        
+        <div class="section-card">
+            <span class="source-label">Repository Source URL</span>
+            <div class="source-url">
+                https://xtudo-ofc.github.io/World-s-Repository/json.json
+            </div>
+        </div>
+
+        <div class="section-card">
+            <h2 class="app-title">Top Sideload App</h2>
+            <img src="ksignlogo.png" alt="kSign Icon" class="app-logo">
+            <h3>kSign</h3>
+            <p style="color: var(--text-dim);">The premier solution for on-device signing and package management.</p>
+        </div>
+
+        <div class="compatibility-list">
+            Fully compatible with <b>AltStore</b> and <b>FlekSt0re</b>
+        </div>
+
+    </div>
+
+</body>
+</html>
