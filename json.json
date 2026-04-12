@@ -9,31 +9,31 @@
       "developerName": "Stef Morojna",
       "version": "1.5.10",
       "versionDate": "2026-04-12",
-      "downloadURL": "COLOQUE_AQUI_O_LINK_DO_IPA",
+      "downloadURL": "https://drive.usercontent.google.com/u/0/uc?id=100IXZV4BGkKd7ZTh1JH9dKdE5UxKZMso&export=download",
       "localizedDescription": "Simulador de foguetes com todos os pacotes desbloqueados. Testado e funcionando no iOS 26.5.",
-      "iconURL": "COLOQUE_AQUI_O_LINK_DA_IMAGEM",
+      "iconURL": "https://play-lh.googleusercontent.com/hXLhDSPNSNjhzmBJYUVlAOcK0Sn5TQf1RcIqhvIJ1R98rk3rTKMhGXBv0nufggOlaYBu",
       "size": 150000000
     },
     {
       "name": "YouTube Plus",
       "bundleIdentifier": "com.miidi.uYouPlus",
       "developerName": "MIRO92",
-      "version": "19.0.1",
-      "versionDate": "2026-04-12",
-      "downloadURL": "COLOQUE_AQUI_O_LINK_DO_IPA",
+      "version": "Original, Recent",
+      "versionDate": "Recent/2026",
+      "downloadURL": "https://drive.usercontent.google.com/u/0/uc?id=100IXZV4BGkKd7ZTh1JH9dKdE5UxKZMso&export=download",
       "localizedDescription": "YouTube com bloqueador de anúncios, reprodução em segundo plano e download de vídeos.",
-      "iconURL": "COLOQUE_AQUI_O_LINK_DA_IMAGEM",
+      "iconURL": "https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png",
       "size": 120000000
     },
     {
       "name": "KSign",
       "bundleIdentifier": "com.ksign.app",
       "developerName": "KSign Team",
-      "version": "1.0",
+      "version": "Original, recent",
       "versionDate": "2026-04-12",
       "downloadURL": "https://github.com/xTudo-ofc/World-s-Repository/raw/refs/heads/main/Ksign.ipa",
       "localizedDescription": "Ferramenta útil para assinatura de pacotes e gerenciamento de certificados.",
-      "iconURL": "COLOQUE_AQUI_O_LINK_DA_IMAGEM",
+      "iconURL": "https://github.com/xTudo-ofc/World-s-Repository/blob/main/ksignlogo.png?raw=true",
       "size": 50000000
     }
   ]
