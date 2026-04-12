@@ -9,9 +9,9 @@
       "developerName": "Stef Morojna",
       "version": "1.5.10",
       "versionDate": "2026-04-12",
-      "downloadURL": "https://drive.usercontent.google.com/u/0/uc?id=100IXZV4BGkKd7ZTh1JH9dKdE5UxKZMso&export=download",
+      "downloadURL": "https://github.com/xTudo-ofc/World-s-Repository/releases/download/ipa/SpaceflightSimulator.ipa",
       "localizedDescription": "Rocket simulator with all bundles unlocked.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/78/34/4478347f-8646-778a-785c-11f42273678e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "iconURL": "https://github.com/xTudo-ofc/World-s-Repository/blob/main/SFSLogo.png?raw=true",
       "size": 150000000
     },
     {
@@ -20,7 +20,7 @@
       "developerName": "MIRO92",
       "version": "1.0",
       "versionDate": "2026-04-12",
-      "downloadURL": "https://drive.usercontent.google.com/download?id=1yiLvY8Ky1EONBExajif2z5F4NLwhMUcf&export=download",
+      "downloadURL": "https://github.com/xTudo-ofc/World-s-Repository/releases/download/ipa/yt-uYE-19497-304.ipa",
       "localizedDescription": "YouTube with Ad-blocker and background play.",
       "iconURL": "https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png",
       "size": 120000000
@@ -33,7 +33,7 @@
       "versionDate": "2026-04-12",
       "downloadURL": "https://github.com/xTudo-ofc/World-s-Repository/raw/refs/heads/main/Ksign.ipa",
       "localizedDescription": "Useful tool for package signing.",
-      "iconURL": "https://github.com/xTudo-ofc/World-s-Repository/blob/main/ksignlogo.png?raw=true",
+      "iconURL": "https://github.com/xTudo-ofc/World-s-Repository/blob/main/KsingNewLogo.png?raw=true",
       "size": 50000000
     }
   ]
